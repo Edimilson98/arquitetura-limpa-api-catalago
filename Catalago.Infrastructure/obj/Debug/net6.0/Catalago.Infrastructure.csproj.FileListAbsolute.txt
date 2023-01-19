@@ -1,0 +1,17 @@
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Infrastructure\bin\Debug\net6.0\Catalago.Infrastructure.deps.json
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Infrastructure\bin\Debug\net6.0\Catalago.Infrastructure.runtimeconfig.json
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Infrastructure\bin\Debug\net6.0\Catalago.Infrastructure.dll
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Infrastructure\bin\Debug\net6.0\Catalago.Infrastructure.pdb
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Infrastructure\bin\Debug\net6.0\Catalago.Domain.dll
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Infrastructure\bin\Debug\net6.0\Catalago.Domain.pdb
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Infrastructure\obj\Debug\net6.0\Catalago.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Infrastructure\obj\Debug\net6.0\Catalago.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Infrastructure\obj\Debug\net6.0\Catalago.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Infrastructure\obj\Debug\net6.0\Catalago.Infrastructure.AssemblyInfo.cs
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Infrastructure\obj\Debug\net6.0\Catalago.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Infrastructure\obj\Debug\net6.0\Catalago.Infrastructure.csproj.CopyComplete
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Infrastructure\obj\Debug\net6.0\Catalago.Infrastructure.dll
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Infrastructure\obj\Debug\net6.0\refint\Catalago.Infrastructure.dll
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Infrastructure\obj\Debug\net6.0\Catalago.Infrastructure.pdb
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Infrastructure\obj\Debug\net6.0\Catalago.Infrastructure.genruntimeconfig.cache
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Infrastructure\obj\Debug\net6.0\ref\Catalago.Infrastructure.dll

@@ -1,0 +1,14 @@
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Domain\bin\Debug\net6.0\Catalago.Domain.deps.json
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Domain\bin\Debug\net6.0\Catalago.Domain.dll
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Domain\bin\Debug\net6.0\Catalago.Domain.pdb
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Domain\obj\Debug\net6.0\Catalago.Domain.csproj.AssemblyReference.cache
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Domain\obj\Debug\net6.0\Catalago.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Domain\obj\Debug\net6.0\Catalago.Domain.AssemblyInfoInputs.cache
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Domain\obj\Debug\net6.0\Catalago.Domain.AssemblyInfo.cs
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Domain\obj\Debug\net6.0\Catalago.Domain.csproj.CoreCompileInputs.cache
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Domain\obj\Debug\net6.0\Catalago.Domain.dll
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Domain\obj\Debug\net6.0\refint\Catalago.Domain.dll
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Domain\obj\Debug\net6.0\Catalago.Domain.pdb
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Domain\obj\Debug\net6.0\ref\Catalago.Domain.dll
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Domain\bin\Debug\net6.0\Catalago.Domain.runtimeconfig.json
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Domain\obj\Debug\net6.0\Catalago.Domain.genruntimeconfig.cache

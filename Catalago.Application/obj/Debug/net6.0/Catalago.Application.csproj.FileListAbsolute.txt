@@ -1,0 +1,15 @@
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Application\bin\Debug\net6.0\Catalago.Application.deps.json
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Application\bin\Debug\net6.0\Catalago.Application.dll
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Application\bin\Debug\net6.0\Catalago.Application.pdb
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Application\bin\Debug\net6.0\Catalago.Domain.dll
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Application\bin\Debug\net6.0\Catalago.Domain.pdb
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Application\obj\Debug\net6.0\Catalago.Application.csproj.AssemblyReference.cache
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Application\obj\Debug\net6.0\Catalago.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Application\obj\Debug\net6.0\Catalago.Application.AssemblyInfoInputs.cache
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Application\obj\Debug\net6.0\Catalago.Application.AssemblyInfo.cs
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Application\obj\Debug\net6.0\Catalago.Application.csproj.CoreCompileInputs.cache
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Application\obj\Debug\net6.0\Catalago.Application.csproj.CopyComplete
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Application\obj\Debug\net6.0\Catalago.Application.dll
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Application\obj\Debug\net6.0\refint\Catalago.Application.dll
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Application\obj\Debug\net6.0\Catalago.Application.pdb
+C:\Users\edimi\source\repos\labs\Catalago\Catalago.Application\obj\Debug\net6.0\ref\Catalago.Application.dll

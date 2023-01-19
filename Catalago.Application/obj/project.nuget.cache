@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FJDgoIeG1gl+xKKnmh22G/AqbAnacw6JOKqog1494AUonrnD5i6YLaze5BWIOqZbua/UWY3tPN5+pXAqwtNScA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\edimi\\source\\repos\\labs\\Catalago\\Catalago.Application\\Catalago.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edimi\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\edimi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
